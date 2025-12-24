@@ -7,3 +7,7 @@ This project shows basic Linux server performance statistics.
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
+
+## 🔗 Project URL
+
+https://github.com/suryam0511/server-stats
