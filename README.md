@@ -10,4 +10,4 @@ chmod +x server-stats.sh
 
 ## 🔗 Project URL
 
-https://github.com/suryam0511/server-stats
+https://roadmap.sh/projects/server-stats
